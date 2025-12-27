@@ -1,7 +1,3 @@
-```
- ─────────────────────────────────────────────────────────────────────
-```
-
 <div align="center">
 
 # Nandhu
@@ -14,10 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:dharnanandhu968@gmail.com)
 
 </div>
-
-```
- ─────────────────────────────────────────────────────────────────────
-```
 
 <br>
 
@@ -53,10 +45,6 @@ const nandhu = {
 ```
 
 <br>
-
-```
- ─────────────────────────────────────────────────────────────────────
-```
 
 <div align="center">
 
